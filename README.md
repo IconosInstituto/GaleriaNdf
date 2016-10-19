@@ -12,7 +12,8 @@ Se busca hacer reflexionar al publico del problema de la pobreza infantil en Mé
 y proponer algunas soluciones.
 
 ---
- ### Universo creativo:
+### Universo creativo:
+
 ![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/Universo%20creativo.jpg)
 
 [Figma](https://www.figma.com/file/I7nOlvjP1aJvOonTNvY17pKP/Ni%C3%B1os-del-futuro)
