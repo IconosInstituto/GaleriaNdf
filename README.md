@@ -1,4 +1,4 @@
-# Ian_Pobreza
+# Niños del futuro
 ## Campaña de concientización sobre la pobreza
 
 El proyecto consiste en la realización de una galería virtual en donde se expondran fotos que expongan el tema de la pobreza en Mèxico.
