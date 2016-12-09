@@ -18,27 +18,27 @@ y proponer algunas soluciones.
 ---
 ### Logotipo:
 
-![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/logp.png)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/logo.png)
 ---
 ### Cartel:
 
-![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/carte-b.jpg)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/carte-b.jpg)
 ---
 ### invitación:
 
-![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/1.jpg)
-![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/2.jpg)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/1.jpg )
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/2.jpg )
 ---
 ### Personaje:
 
-![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/charaface.jpg)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/charaface.jpg)
 ---
 
 ### Storyboard:
 
-![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/s.jpg)
-![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/s2.jpg)
-![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/s3.jpg)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/s.jpg)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/s2.jpg)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/s3.jpg)
 
 ---
 
