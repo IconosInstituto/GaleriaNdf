@@ -2,9 +2,7 @@
 .container{
    
 }
-.container{
-    
-}
+
 .principal{
     height: 80px;   
 }
@@ -124,7 +122,10 @@ background-color: rgba(25,60,85,.35);
 }
 
 .textcover{font-size: .40em;}
-body{background: #b36}
+
+body{background: #b36;
+     font-family: 'Roboto', sans-serif;}
+
 .arrowl i{box-shadow: 9px 18px 11px rgba(25,80,85,.35); 
 border-radius: 50}
 .arrowr i{box-shadow: -9px 18px 11px rgba(25,80,85,.35); }
@@ -184,6 +185,13 @@ overflow: hidden;}
     animation-timing-function: ease-in;
     
 }
+.contmed ul {display: flex;
+    padding: 0;
+    width: 300%;
+    animation:cambio 18s infinite alternate;
+    animation-timing-function: ease-in;
+    
+}
 .slider li{
     width:100%;
     list-style: none;
@@ -225,6 +233,7 @@ overflow: hidden;}
     
 }
 
+
 @keyframes banner{
     0%{margin-left:0;}
     40%{margin-left: 0%;}
@@ -251,6 +260,108 @@ overflow: hidden;}
    
 }
 
+
+
+
+.cont {height: 880px;
+;
+}
+.cont33 {height: 880px;
+background-color: antiquewhite
+}
+.contmed {height: 880px;
+    margin-top: 30px;
+    margin-bottom: 30px
+    
+;
+}
+.title{
+    height: 150px;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    font-size: 3em;
+    background: #222222;
+    color: #fff;
+}
+.title p{margin-top: px}
+.texto1{
+    height: 400px;
+   
+    
+     color: white;
+    font-size: 2em;
+background: rgba(185,16,16,.72);
+border-left: solid;}
+
+.texto1 p{
+   margin-left: 25px;
+margin-top: 25px;
+ }
+.texto2{
+    height: 440px;
+    
+    background: rgba(15,116,176,.72);
+    color: white;
+    font-size: 2em;
+    border-right: solid;
+     
+
+}
+.texto2 p{
+   margin-right: 25px;
+margin-top: 25px;
+text-align: right;
+    
+  }
+.imgdes{
+overflow: hidden;
+display: block;
+ height: 400px;}
+.mapdes{
+
+display: block;
+ height: 400px;
+    z-index: 4;
+    position: relative;
+    top: -153px
+}
+.img2des{
+overflow: hidden;
+display: block;
+ height: 440px;}
+
+
+.red {
+    height:152% ;
+    position: relative;
+    top: -140px
+}
+
+
+.logo { height: 150px;
+    
+}
+.logo img{height: 100%;
+margin-top: 20px}
+.fo {
+    background-image: url(../img/fondo.png) ;   
+}
+
+.blue {
+    height: 100%;
+       
+}
+
+.bottom {height: 100px;
+background: #222222;
+    color: #fff;
+    
+}
+
+.iconos {float: right;
+    height: 100%;}
+
+
 .contacto {
     border-left: solid;
     height: 100% ;
@@ -261,18 +372,141 @@ overflow: hidden;}
 @media(max-width: 720px)
 {
     
-    .op{position: absolute;
-    z-index: 1;
-top:30%;
-    font-size:.em ;}
-    .menuimg{height:220px ;}
-    .linkbottom{height:100px ;}
+    .op
+    {   position: absolute;
+        z-index: 1;
+        top:30%;
+        font-size:.em ;
+    }
+    .menuimg{
+        height:220px ;}
+    .linkbottom{
+        height:100px ;}
     .img {
         height: 200%; }
-    .slider{height: 600px; overflow: hidden;
-    display: block;
+    .slider{
+        height: 600px; 
+        overflow: hidden;
+        display: block;
     }
-    .slider img{width: 135%;}
-    .logo{height:  13%}
+    .slider img{
+    width: 135%;}
+    .logo{
+    height:  13%}
+    .texto2 p{ 
+    font-size: .65em; 
     
+  }
+    .texto1 p{
+    font-size: .65em;
+        
+  }
+    .red {
+    height:100% ;
+    position: relative;
+    top: 0px
+}
+    .logo { height: 120px;
+    
+}
+    .title{
+    height: 120px;
+    font-size: 2em;  
     }
+    .title p {
+    margin-top: 20px;  
+    }
+
+
+    .r {
+    height: 150%;
+    }
+    .bottom {
+    margin-top: 15px;
+    height: 80px;
+    background: #222222;
+    color: #fff;
+    
+}
+    .contacto {
+    border-left: solid;
+    font-size: .7em;
+    margin-top: 0px;
+    padding-left: 20px;
+    
+}
+    .foot {
+    margin-top: 25px ;
+    font-size: .8em;
+    
+    
+   
+}
+}
+
+.er {
+    
+}
+
+.textopo1 {
+    
+    height: 400px;
+   
+    
+     color: white;
+    font-size: 1.3em;
+background: rgba(85,116,216,.72);
+border-left: solid;
+}
+
+.textopo1 P { margin-left: 25px;
+margin-top: 25px;
+    
+}
+
+.textopo2 {
+    height: 440px;
+    
+    background: rgba(145,116,176,.72);
+    color: white;
+    font-size: 1.3em;
+    border-right: solid;
+     
+    
+}
+
+.textopo2 p{
+   margin-right: 25px;
+margin-top: 25px;
+text-align: right;
+    
+  } {
+    
+}
+
+.media1 {
+    height: 100px;
+    background: #ffa;
+}
+
+.media1 p { color: black;
+    font-size: 4em;
+    text-align: center;
+    
+}
+
+.ma {
+    margin-top: 12px;
+}
+
+.vidmedia {
+    height: 880px
+}
+
+.vid {
+    height: 100%
+}
+
+.mar {
+    margin-top: 200px;
+}

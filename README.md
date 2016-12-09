@@ -15,6 +15,32 @@ y proponer algunas soluciones.
 ### Universo creativo:
 
 ![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/Universo%20creativo.jpg)
+---
+### Logotipo:
+
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/logp.png)
+---
+### Cartel:
+
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/carte-b.jpg)
+---
+### invitación:
+
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/1.jpg)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/2.jpg)
+---
+### Personaje:
+
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/charaface.jpg)
+---
+
+### Storyboard:
+
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/s.jpg)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/s2.jpg)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/s3.jpg)
+
+---
 
 [Figma](https://www.figma.com/file/I7nOlvjP1aJvOonTNvY17pKP/Ni%C3%B1os-del-futuro)
 
