@@ -14,7 +14,11 @@ y proponer algunas soluciones.
 ---
 ### Universo creativo:
 
-![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/Universo%20creativo.jpg)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/Universo%20creativo.png)
+---
+### Paleta de color:
+
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/color.jpg)
 ---
 ### Logotipo:
 
@@ -46,8 +50,9 @@ y proponer algunas soluciones.
 
 **Materias** | **Activos**
 -------- | -------
-Sonido digital | Postal sonora
-Hojas de estilo | sitio web
+Sonido digital | [Postal sonora](https://soundcloud.com/user-131199914/proyecto-integrador-galeria-ninos-del-futuro-postal-sonora)
+Hojas de estilo | 
+[Sitio web](https://iconosinstituto.github.io/IanPobreza/)
 Dibujo 3D | Galería 3D
 Estrategias de significación | Materiales promocionales
 Fotografia digital | fotos para la exposición
