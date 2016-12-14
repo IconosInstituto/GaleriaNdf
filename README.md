@@ -14,11 +14,11 @@ y proponer algunas soluciones.
 ---
 ### Universo creativo:
 
-![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/Universo%20creativo.png)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/Universo%20creativo.png)
 ---
 ### Paleta de color:
 
-![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/master/Universo%20creativo/color.jpg)
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/color.jpg)
 ---
 ### Logotipo:
 
