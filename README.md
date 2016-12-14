@@ -45,8 +45,10 @@ y proponer algunas soluciones.
 ![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/s3.jpg)
 
 ---
+[Maquetación](https://www.figma.com/file/jSFd7GkKgEGUJuTQJOueEU/Ni%C3%B1os-del-futuro-Maquetaci%C3%B3n)
 
 [Figma](https://www.figma.com/file/I7nOlvjP1aJvOonTNvY17pKP/Ni%C3%B1os-del-futuro)
+
 
 **Materias** | **Activos**
 -------- | -------
