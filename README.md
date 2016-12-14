@@ -51,8 +51,7 @@ y proponer algunas soluciones.
 **Materias** | **Activos**
 -------- | -------
 Sonido digital | [Postal sonora](https://soundcloud.com/user-131199914/proyecto-integrador-galeria-ninos-del-futuro-postal-sonora)
-Hojas de estilo | 
-[Sitio web](https://iconosinstituto.github.io/IanPobreza/)
+Hojas de estilo | [Sitio web](https://iconosinstituto.github.io/IanPobreza/)
 Dibujo 3D | Galería 3D
 Estrategias de significación | Materiales promocionales
 Fotografia digital | fotos para la exposición
