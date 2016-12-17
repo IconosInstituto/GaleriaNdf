@@ -10,7 +10,7 @@
     height: 120px;
     z-index:1 ;
     position: absolute;
-top:-0px ;box-shadow: -1px 18px 11px rgba(25,60,65,.35);;
+top:-0px ;box-shadow: -1px 18px 11px rgba(25,60,65,.35);
 }
 .menu{ background: #222;
     color:#fff;   
@@ -18,7 +18,7 @@ top:-0px ;box-shadow: -1px 18px 11px rgba(25,60,65,.35);;
 .menu2{ 
     
     border-left: solid;
-    text-align: center
+    text-align: center;
     
 }
 .dot {
@@ -96,19 +96,19 @@ border: solid;border-color:rgba(15,60,65,.35)}
 .arrowr
 {font-size:5em ;
 position: absolute;
-    z-index: 2;
+z-index: 2;
 top:40%;
 color:#eee ;
 border: solid;
 background-color: rgba(25,60,85,.35);
-    border-color:rgba(15,60,65,.25);}
+border-color:rgba(15,60,65,.25);}
 
 .footer
 
     {color:#fff;
     height: 80px;
     background: #222;
-        overflow: hidden;
+    overflow: hidden;
 }
 
 .linkbottom{     
@@ -208,13 +208,13 @@ body{background: #b36;
 /* Portada*/
 
 /*global rules */
-.boxshadow{box-shadow: 11px 22px 11px rgba(25,60,65,.25)}
-.boxshadow2{box-shadow: -11px 22px 11px rgba(25,60,65,.15)}
+.boxshadow{box-shadow: 11px 22px 11px rgba(25,60,65,.25);}
+.boxshadow2{box-shadow: -11px 22px 11px rgba(25,60,65,.15);}
 a{border-style: none;
    text-decoration: none;
     color:white}
-a:hover  {color:#f3ce40; background-color:transparent; text-decoration:none}
-a:active  {color:#f3ce40; background-color:transparent; text-decoration:underline}
+a:hover  {color:#f3ce40; background-color:transparent; text-decoration:none;}
+a:active  {color:#f3ce40; background-color:transparent; text-decoration:underline;}
 /*global rules */
 .ban
 {height: 180px;
@@ -264,9 +264,7 @@ background:rgba(225,205,185,1) ;
 }
 .contmed {height: 880px;
     margin-top: 30px;
-    margin-bottom: 30px
-    
-;
+    margin-bottom: 30px;
 }
 .title{
     height: 150px;
@@ -282,7 +280,7 @@ background:rgba(225,205,185,1) ;
    
     
      color: white;
-    font-size: 2em;
+    
 background: rgba(185,16,16,.72);
 border-left: solid;}
 
@@ -369,7 +367,7 @@ background: #222222;
     {   position: absolute;
         z-index: 1;
         top:30%;
-        font-size:.em ;
+        
     }
     .menuimg{
         height:220px ;}
@@ -385,15 +383,12 @@ background: #222222;
     .slider img{
     width: 135%;}
     .logo{
-    height:  13%}
+    height:  13%;}
     .texto2 p{ 
     font-size: .65em; 
     
   }
-    .texto1 p{
-    font-size: .65em;
-        
-  }
+    
     .red {
     height:100% ;
     position: relative;
@@ -411,9 +406,7 @@ background: #222222;
     }
 
 
-    .r {
-    height: 150%;
-    }
+   
     .bottom {
     margin-top: 15px;
     height: 80px;
@@ -437,13 +430,12 @@ background: #222222;
 }
 }
 
-.er {
-    
-}
+
 
 .textopo1 {
     
     height: 400px;
+    overflow: hidden;
    
     
      color: white;
@@ -464,6 +456,7 @@ margin-top: 25px;
     color: white;
     font-size: 1.3em;
     border-right: solid;
+   overflow: hidden
      
     
 }
@@ -491,13 +484,93 @@ text-align: right;
 }
 
 .vidmedia {
-    height: 880px
+    height: 880px;
 }
 
 .vid {
-    height: 100%
+    height: 100%;
 }
 
 .mar {
     margin-top: 200px;
+}
+
+.contactt {font-size: 1.3em ;
+   padding-top: 50px;
+   margin-right:15px ;
+    
+}
+
+.contactm {ont-size: 1em ;
+   padding-top: 50px;
+   margin-right:15px ;
+   
+    
+}
+
+.contactd { font-size: 1.4em ;
+            margin-right:15px ;
+            padding-top: 50px;
+           
+    
+}
+
+.textopobm {font-size:.7em ;
+    
+}
+
+.textopob2 {
+    font-size:.9em ;
+}
+
+.textopob2t {font-size:.8em ;
+    
+}
+
+.textopobt {
+    font-size: .8em;
+}
+
+.textopob2m {
+    font-size: .7em;
+}
+
+.textoexhbt {
+    font-size: 1.8em;
+    margin-right:25px ;
+}
+
+.textoexhbm {
+      font-size:1.2em ;
+      margin-right:25px;
+
+}
+
+.texto22 {
+    height: 440px;
+    overflow: hidden;
+    background: rgba(15,116,176,.72);
+    color: white;
+    border-right: solid;
+}
+
+.off {
+    position: relative;
+    left:-165px ;
+}
+
+.je {
+    height: 120%;
+}
+
+.je2 {
+    height: 110%;
+}
+
+.je3 {
+    height: 110%;
+}
+
+.textoexhb {
+    font-size: 2em;
 }

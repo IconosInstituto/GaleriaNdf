@@ -24,6 +24,10 @@ y proponer algunas soluciones.
 
 ![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/logo.png)
 ---
+### Infografia:
+
+![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/infografia.jpg)
+---
 ### Cartel:
 
 ![alt text] (https://github.com/IconosInstituto/IanPobreza/blob/gh-pages/Universo%20creativo/carte-b.jpg)
