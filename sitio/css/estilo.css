@@ -6,13 +6,7 @@
 .principal{
     height: 80px;   
 }
-div.html5gallery-container-0
-div.html5gallery-box-0
-div.html5gallery-elem-0
-div.html5gallery-elem-img-0
-a{
-  visibility: hidden;
-}
+
 .logo{
     height: 120px;
     z-index:1 ;
@@ -61,12 +55,18 @@ top:-0px ;box-shadow: -1px 18px 11px rgba(25,60,65,.35);
     display: block
 }
 .menuimg{ 
-    height:370px ;
+    min-height:370px ;
     
 }
-.img2{ height: 50%;
+.img2{ height:50%;
+   
 
 }
+.img2:hover{ 
+    height:51%;
+    
+        
+}        
 .imagenb{position: relative;
     z-index:1 ;
     box-shadow: -7px 11px 11px  rgba(35,35,35,.35) ;
@@ -75,7 +75,7 @@ top:-0px ;box-shadow: -1px 18px 11px rgba(25,60,65,.35);
 }
 
 .text{
-    height: 70px;
+    
     text-align: center;
     font-size: 4em;
     color: #fff;
@@ -86,8 +86,8 @@ top:-0px ;box-shadow: -1px 18px 11px rgba(25,60,65,.35);
 }
 .op{  position: absolute;
     z-index: 1;
-top:40%;
-width: 470px;
+top:30%;
+
 background-color: rgba(25,80,85,.15);
 border: solid;
 border-color:rgba(25,80,85,.25) ;
@@ -126,17 +126,21 @@ border-color:rgba(15,60,65,.25);}
     border-color:rgba(15,15,15,.2) ;
     height:360px ;
 }
+  
 
 .textcover{font-size: .40em;}
 
-body{background: #b36;
+body{   background: rgba(185,76,136,1);
+;
+
      font-family: 'Roboto', sans-serif;}
 .text2{
-    background:rgba(235,235,235,.95) ;
+   
     color: #222;
     border-top:solid ;
     padding: 5px ;
     height:130px ;
+    
  }
 
 .slider {
@@ -158,6 +162,7 @@ body{background: #b36;
     animation-timing-function: ease-in;
     
 }
+
 .slider li{
     width:100%;
     list-style: none;
@@ -267,11 +272,18 @@ background:rgba(225,205,185,1) ;
 
 
 
-.cont {height: 880px;
+.cont {
+   
+    padding: 20px;
+    background: rgba(255,246,211,.9);
+    margin-bottom: 20px;
+ 
+    min-width: 200px;
+display: block;
 }
 .cont33 {
     height: 880px;
-    background-color: antiquewhite;
+    background: rgba(245,226,216,1);
     margin-bottom: 15px;
 }
 .contmed {height: 880px;
@@ -293,7 +305,7 @@ background:rgba(225,205,185,1) ;
     
      color: white;
     
-background: rgba(185,16,16,.72);
+    background: rgba(255,196,76,1);
 border-left: solid;}
 
 .texto1 p{
@@ -319,7 +331,9 @@ text-align: right;
 .imgdes{
 overflow: hidden;
 display: block;
- height: 400px;}
+ height: 400px;
+}
+
 .mapdes{
 
 display: block;
@@ -331,13 +345,17 @@ display: block;
 .img2des{
 overflow: hidden;
 display: block;
- height: 440px;}
+ height: 440px;
+min-width: 280px;
+   position: relative;
+}
 
 
 .red {
     height:152% ;
     position: relative;
-    top: -140px
+    top: -140px;
+    
 }
 
 
@@ -346,12 +364,13 @@ display: block;
 }
 .logo img{height: 100%;
 margin-top: 20px}
-.fo {
-    background-image: url(../img/fondo.png) ;   
+.fopobre {background-color: rgba(255,196,76,1);
+        
 }
 
 .blue {
     height: 100%;
+        
        
 }
 
@@ -381,8 +400,7 @@ background: #222222;
         top:30%;
         
     }
-    .menuimg{
-        height:220px ;}
+
     .linkbottom{
         height:100px ;}
     .img {
@@ -452,8 +470,9 @@ background: #222222;
     
      color: white;
     font-size: 1.3em;
-background: rgba(85,116,216,.72);
+background-color: rgba(255,196,76,1);
 border-left: solid;
+    min-width: 280px;
 }
 
 .textopo1 P { margin-left: 25px;
@@ -464,12 +483,13 @@ margin-top: 25px;
 .textopo2 {
     height: 440px;
     
-    background: rgba(145,116,176,.72);
+background-color: rgba(255,166,76,1);
+;
     color: white;
     font-size: 1.3em;
     border-right: solid;
-   overflow: hidden
-     
+   overflow: hidden;
+     min-width: 280px;
     
 }
 
@@ -545,6 +565,7 @@ text-align: right;
 
 .textopob2m {
     font-size: .7em;
+   
 }
 
 .textoexhbt {
@@ -585,4 +606,62 @@ text-align: right;
 
 .textoexhb {
     font-size: 2em;
+}
+
+.vs {
+    height: 600px;
+}
+
+.textexh {padding:21px;
+    font-size:1.5em;
+   background: rgba(245,216,176,1);
+    min-width: 200px;
+    color: #222;
+    
+    
+}
+
+.pictures {padding-left:7px ;
+    min-width: 300px;
+}
+
+.ew {
+    height: 780px;
+    display: flex;
+}
+
+.mennnu {
+    min-width: 400px;
+}
+
+.dad {
+    
+}
+
+.dd {
+    position: relative;
+    z-index: 44;
+    color: white;
+    top: 21px;
+}
+
+.imga2 {height: 600%;
+    z-index: 2;
+    top: -321px;
+    left: -20px;
+    position: relative;
+    opacity: .8
+}
+.imga2:hover {
+    opacity: 1
+}
+.imga3:hover {
+    opacity: .8
+}
+.imga3 {height: 600%;
+    z-index: 2;
+    top: -221px;
+    left: -60px;
+    position: relative;
+    opacity: .2
 }

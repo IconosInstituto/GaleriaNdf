@@ -5,22 +5,38 @@
         <title>Web | Niños del futuro</title>
         <link rel="stylesheet" href="sitio/css/dw4.css"/>
         <link rel="stylesheet" href="sitio/css/estilo.css"/>
+        <link rel="stylesheet" href="sitio/js/jquery-3.1.1.min.js" >
         <meta name="description" content="Campaña de consientialización"/>
         <meta name="keywords" content="Pobreza, Niños, México"/>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-       <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab" rel="stylesheet"> 
-       <script type="text/javascript" src="sitio/html5gallery/jquery.js"></script>
-       <script type="text/javascript" src="sitio/html5gallery/html5gallery.js"></script>  
-
+        <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab" rel="stylesheet"> 
+        <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script type="text/javascript" src="sitio/js/source/jquery.fancybox.js"></script>
+        <script type="text/javascript" src="sitio/html5gallery/html5gallery.js">
+        </script> 
+        <link rel="stylesheet" href="sitio/js/source/jquery.fancybox.css" >
+       
+        <script type="text/javascript">
+	       $(document).ready(function() {
+		   $(".fancybox").fancybox();
+	       });
+           $(document).ready(function() {
+	       $(".fancybox").fancybox({
+		      openEffect	: 'elastic',
+              openspeed : "fast",
+		      closeEffect	: 'fade',
+	           });
+            });
+</script>
     </head>
         <body>  
      <header class="container fluid boxshadow menu ">
         <div class="c10 co1 o1 ot1 cm12 om0  " >
-            <div class="container middle " >
+            <div class="container middle mennnu " >
                 <a href="index.html">
-                <img class="c2 o1 ct4 cm8 principal logo" src="sitio/img/logo.png" >
+                <img class="c2 o1 ct4 cm3  principal logo" src="sitio/img/logo.png" >
                 </a>
-                <div class="c2 o1 ct ot4 cm3 principal" ></div>
+                <div class="c2 o1 ct4 ot cm3 principal" ></div>
                 <div class="c ct2 cm2 menu2" ><a href="pobreza.html">
                     ¿Pobreza infantil?</a>
                 </div>
@@ -36,17 +52,41 @@
             </div>
         </div>
     </header>
+       
+       
         
+        
+        
+         
 
 
     <div class="c ct cm fluid bannerbackground boxshadow2 ">
       
           <div class="c10 ct cm o1 ban">
-             <div style="display:none;" class="html5gallery" data-resizemode="fill" data-skin="none"  data-showcarousel="false" data-showtitle="true"   data-titleautohide="false" data-titleoverlay="true" data-headerpos="top"  data-titlecss="{ color:#eee; font-size:3.5em; font-family:Armata, sans-serif, Arial;  white-space:nowrap; margin-top:40px;}"  data-bgcolor="#333" data-showplaybutton="false" data-showfullscreenbutton="false" data-responsive="true" data-responsivefullscreen="true" data-loop="0" data-effect="slide" data-autoslide="true" data-duration="4000">
-              <a href="sitio/img/galban.jpg" data-link="exhibiciones.html" data-linktarget="_blank"><img src="sitio/img/galban.jpg" alt="Exhibición"></a> 
-              <a href="sitio/img/medban.jpg"data-link="media.html" data-linktarget="_blank"><img src="sitio/img/medban.jpg" alt="Media"></a> 
-              <a href="sitio/img/infantil1ban.jpg"data-link="pobreza.html" data-linktarget="_blank"><img src="sitio/img/infantil1ban.jpg" alt="¿Pobreza infantil?"></a> 
-              <a href="sitio/img/baner.jpg"data-link="nosotros.html" data-linktarget="_blank"><img src="sitio/img/baner.jpg" alt="Nosotros"></a> 
+             <div 
+             style="display: none ;" 
+             class="html5gallery" 
+             data-resizemode="fill" 
+             data-skin="none"  
+             data-showcarousel="false" 
+             data-showtitle="true"   
+             data-titleautohide="false" 
+             data-titleoverlay="true" 
+             data-headerpos="top"  
+             data-titlecss="{ color:#eee; font-size:3.5em; font-family:Armata, sans-serif, Arial;  white-space:nowrap; margin-top:40px;}"  
+             data-bgcolor="#333" 
+             data-showplaybutton="false" 
+             data-showfullscreenbutton="false" 
+             data-responsive="true" 
+             data-responsivefullscreen="true" 
+             data-loop="0" 
+             data-effect="slide" 
+             data-autoslide="true" 
+             data-duration="4000">
+              <a href="sitio/img/galban.jpg" data-link="exhibiciones.html"><img src="sitio/img/galban.jpg" alt="Exhibición"></a> 
+              <a href="sitio/img/medban.jpg" data-link="media.html" ><img src="sitio/img/medban.jpg" alt="Media"></a> 
+              <a href="sitio/img/infantil1ban.jpg" data-link="pobreza.html"><img src="sitio/img/infantil1ban.jpg" alt="¿Pobreza infantil?"></a> 
+              <a href="sitio/img/baner.jpg" data-link="nosotros.html"><img src="sitio/img/baner.jpg" alt="Nosotros"></a> 
              
             </div>  
          </div>       
@@ -54,43 +94,64 @@
     </div>
    <div class="container fluid  boxshadow fo ">
         <div class="c10 ct10 cm o1 ot1  om cont boxshadow mt2 ">
-           <div class="container fluid mt2 boxshadow">
-             
-                <div class="c6 cm7  texto1">
-                   <P  class="not c11 textoexhb">
-                    Conoce nuestra nueva exposición digital “Niños del futuro”, donde se exhibiran fotografias y pinturas, que tratan con los temas de pobreza infantil.
-                    </P>
-               <P class="onlyt textoexhbt r">
-                    Conoce nuestra nueva exposición digital “Niños del futuro”, donde se exhibiran fotografias y pinturas, que tratan con los temas de pobreza infantil.
-                    </P>
-                <P class="onlym textoexhbm c11">
-                   Conoce nuestra nueva exposición digital “Niños del futuro”, donde se exhibiran fotografias y pinturas, que tratan con los temas de pobreza infantil.
-                </P>
-                
-            </div>
-            <div class="c o imgdes"><img class="red" src="sitio/img/da.jpg"  ></div>
+        
+         <div class="container">
+           <div class=" c ct "  >
+              <div class="textexh"><h1>Galeria Niños del futuro</h1> <p> <br><br> Abrimos nuestras puertas con la exposición <b>"pobreza infantil"</b>, en esta exposición podras conocer mas acerca de la pobreza en  <b>Latino America</b>. atravez de <b>fotos y pinturas</b>. <br> <br>
+               Contamos con la participación de varias obras de diversos fotografos y pintores en las cuales podras observar, diferentes perpectivas del tema y talvez te inspire a unirte a nuestra lucha contra la pobreza  .<br><br>  </p> </div>
+               
+         
            
-            </div>
-           <div class="container fluid boxshadow ">
-               <div class="c6 ct6 cm6 o texto22">
-                <img class="je off not" src="sitio/img/poverty1.jpg"  >
-                <img class="je2 off onlyt " src="sitio/img/poverty1.jpg"  >
-                <img class="je3 off onlym " src="sitio/img/poverty1.jpg"  >
-                
-           
-           
-           
-            </div>     
-            <div class="c ct ot o img2des"><img class="blue" src="sitio/img/Galeria.jpg"  ></div>
-            
            </div>
+            <Div class="c5 ct11 o1 ot2 om1 pictures "> 
+             <a class="fancybox  " rel="gallery1" href="sitio/img/b1.jpg" title="Untitle( US Mission to the United Nations Agencies in Rome )">
+	          <img class="c5 ct4 cm5" src="sitio/img/d1.jpg" alt="" />
+              </a> 
+          
+              <a class="fancybox" rel="gallery1" href="sitio/img/b2.jpg" title="Madasgascar-17-006-Tokiniaina Hobinjatovo interviewing people about their attitudes towards-Credit Bangor University(Darwin Initiative)">
+	          <img class="c5 ct4 cm5" src="sitio/img/d2.jpg" alt="" />
+              </a> 
+          
+              <a class="fancybox " rel="gallery1" href="sitio/img/b3.jpg" title="face Intense look(Chiara Abbate)"><img class="c5 ct4 cm5" src="sitio/img/d3.jpg" alt="" /> </a> 
+          
+	      
+              <a class="fancybox" rel="gallery1" href="sitio/img/b4.jpg" title="Smart face (Chiara Abbate)">  <img class="c5 ct4 cm5" src="sitio/img/d4.jpg" alt="" />
+              </a> 
+              <a class="fancybox " rel="gallery1" href="sitio/img/b5.jpg" title="The on who sleeps in the abandoned palace (Thibaud Saintin)"><img class="c5 ct4 cm5" src="sitio/img/d5.jpg" alt="" /></a> 
+         
+              <a class="fancybox" rel="gallery1" href="sitio/img/b6.jpg" title=" The Streets are Sad, Bogota (Geraint Rowland)">
+	          <img class="c5 ct4 cm5" src="sitio/img/d6.jpg" alt="" />
+              </a>     
+              <a class="fancybox" rel="gallery1" href="sitio/img/b7.jpg" title=" Young scavenger(Thibaud Saintin)">
+	          <img class="c11 ct8 ot cm10" src="sitio/img/d7.jpg" alt="" />
+              </a>   </Div>
+            
+           
+        </div>
+         
+          
+          
+         
+         
         </div>
     </div>
-    <header class="container fluid boxshadow   ">
-        <div class="c   bottom" ><img class="iconos" src="sitio/img/logo_blanco.png">
-            
+    <footer class=" container fluid footer mt2" >
+        <div class="c o cm12 om0 " >
+            <div class="container  " >
+                <div class="c o1 mt2 foot " >
+                    <p>Av. Chapultepec 57, Col. Centro C.P. 06040. CDMX <br></p>
+                </div>
+                <div class="contacto c"> 
+                <p><br>Contactanos <br>
+                    01 55 | 5709 4370 | 57096593 | 57094396
+                    <br>info@iconos.edu.mx <br><br></p>           
+                </div>
+                <div class="c   bottom" >
+                    <img class="iconos" src="sitio/img/logo_blanco.png">
+                </div>          
+            </div>
         </div>
-    </header>
+    </footer>
    
        </body>
 </html>
